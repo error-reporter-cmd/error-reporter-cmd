@@ -10,7 +10,7 @@
 
 </div>
 
-- ![test](https://cdn.discordapp.com/emojis/1440438419174981757.webp?size=32) Currently Working on South West Network V2
+- ![test](https://cdn.discordapp.com/emojis/1440438419174981757.webp?size=32)
 
 - 🌱 I’m currently learning **Discord.py + Web Development**
 
