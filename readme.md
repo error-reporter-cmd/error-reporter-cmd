@@ -32,6 +32,7 @@
   <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/NPM-306998.svg?style=for-the-badge&logo=python&logoColor=yellow" />
 </p>
 
 
